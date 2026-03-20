@@ -2,7 +2,7 @@
 
 Problem: Predict Customer Purchasing Habits
 
-This File: EDA before modeling
+This File: General EDA before modeling, with more advanced features towards the end of the file
 
 Expected Models: Decision Tree Regressor, CatBoost
 
